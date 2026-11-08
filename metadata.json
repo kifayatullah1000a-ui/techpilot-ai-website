@@ -1,0 +1,6 @@
+{
+  "name": "TechPilot AI - Technology & Artificial Intelligence Publishing",
+  "description": "Professional technology publication and AI platform featuring an intelligent content studio, research workbench, editorial review pipeline, free developer tools, and deep-dive technical journalism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
